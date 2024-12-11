@@ -61,7 +61,13 @@ The project follows a modular structure to ensure scalability and maintainabilit
     │       - Functions:
     │           - `generate_basic_arithmetic_question`: Generates addition, subtraction, multiplication, or division questions.
     │           - `generate_factors_and_multiples_question`: Generates factors and multiples questions.
-    │           - `generate_place_value_and_rounding_question`: Generates place value or rounding questions, along with their answers.
+    │           - `generate_place_value_and_rounding_question`: Generates place value or rounding questions.
+    │   └── fractions_decimals_percentages.py
+    │       - Contains the `FractionsDecimalsPercentages` class.
+    │       - Functions:
+    │           - `generate_conversion_question`: Generates convertion between fractions, decimals, and percentages questions.
+    │           - `generate_calculation_question`: Generates fraction and percentage questions.
+
 
 ## How It Works
 
