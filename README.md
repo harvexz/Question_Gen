@@ -1,4 +1,4 @@
-GCSE AQA Foundation Question Generator
+# GCSE AQA Foundation Question Generator
 
 This project is a Python-based tool designed to generate GCSE AQA Foundation-level exam questions. It focuses on key topics, starting with number operations, to help students practice and revise effectively. The program runs a simple command-line menu, making it accessible and easy to use.
 
@@ -9,7 +9,7 @@ Features
 •	Cycles through different types of questions in a mix.
 •	Designed for efficient practice and preparation.
 
-Installation
+## Installation
 
 To set up the project on your local machine:
 1.	Clone the repository:
@@ -21,7 +21,7 @@ To set up the project on your local machine:
 
     cd <project-directory>
 
-Usage
+## Usage
 
 The program is run directly from the command line using Python:
 1.	Run the program:
@@ -43,10 +43,10 @@ Example interaction:
     Q5: What is the value of the digit in the tens place in the number 129?
 
 
-Requirements
+## Requirements
 •	Python 3.6 or higher: Ensure you have Python installed. Download here.
 
-Project Structure
+## Project Structure
 
 The project follows a modular structure to ensure scalability and maintainability.
 
@@ -63,7 +63,7 @@ The project follows a modular structure to ensure scalability and maintainabilit
     │           - `generate_factors_and_multiples_question`: Generates factors and multiples questions.
     │           - `generate_place_value_and_rounding_question`: Generates place value or rounding questions, along with their answers.
 
-How It Works
+## How It Works
 
 Topic Files:
 
